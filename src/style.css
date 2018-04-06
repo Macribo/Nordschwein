@@ -1,7 +1,7 @@
 body {
 
 	font-family: 'Cabin', sans-serif;
-	background-color: #f4fdaf
+
 }
 
 
@@ -179,9 +179,9 @@ main{
 
 #siteBtn{
 
-	background-image: url(../images/siteBtnA.png);
-	width:319px;
-	height:178px; 
+	background-image: url(../images/placeHolder_1.png);
+	width:640px;
+	height:480px; 
 	display:block;
 	margin:auto;
 	transition:  1s;
@@ -189,8 +189,8 @@ main{
 
 #siteBtn:hover{
 	background-image:url(../images/siteBtnB.png);
-	width:319px;
-	height:178px; 
+	width:640px;
+	height:480px; 
 	display:block;
 	margin:auto;
 }
